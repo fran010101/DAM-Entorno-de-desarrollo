@@ -12,7 +12,7 @@ public class Prueba {
 		Random r = new Random();
 		int valorDado = r.nextInt(10) + 1;
 		System.out.println(valorDado);
-		
+		//primera modificacion
 	}
 	
 
