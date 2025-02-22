@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_vaiOQL4MEe-UBtfbA2kYHQ" name="DAM">
+  <eAnnotations xmi:id="_YdwekL4OEe-UBtfbA2kYHQ" source="http://ns.yatta.de/umllab">
+    <contents xmi:type="ecore:EAnnotation" xmi:id="_YdxFoL4OEe-UBtfbA2kYHQ" source="codegen">
+      <details xmi:id="_YdxFob4OEe-UBtfbA2kYHQ" key="AssociatedSourceCode" value="/DAM/generated/Empleado.java;1259282141/1;"/>
+    </contents>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Class" xmi:id="_nAMCsL4NEe-UBtfbA2kYHQ" name="Empleado"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_f44hcL4QEe-Uyv9cWpd36Q" name="NewClass1"/>
+</uml:Model>

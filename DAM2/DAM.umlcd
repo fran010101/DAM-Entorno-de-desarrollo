@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_vcEfUL4MEe-UBtfbA2kYHQ">
+  <modelElement href="DAM.uml#_vaiOQL4MEe-UBtfbA2kYHQ"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_nAVMoL4NEe-UBtfbA2kYHQ" name="Empleado">
+    <modelElement href="DAM.uml#_nAMCsL4NEe-UBtfbA2kYHQ"/>
+    <visualProperties xmi:id="_nAVMob4NEe-UBtfbA2kYHQ" position="212.0,132.0" size="118.0,117.0"/>
+    <visibility xmi:id="_nAVMor4NEe-UBtfbA2kYHQ" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_f49Z8L4QEe-Uyv9cWpd36Q" name="NewClass1">
+    <modelElement href="DAM.uml#_f44hcL4QEe-Uyv9cWpd36Q"/>
+    <visualProperties xmi:id="_f49Z8b4QEe-Uyv9cWpd36Q" position="442.0,136.0" size="226.0,168.0"/>
+    <visibility xmi:id="_f49Z8r4QEe-Uyv9cWpd36Q" label="+"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
