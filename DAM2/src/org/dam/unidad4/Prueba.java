@@ -13,6 +13,7 @@ public class Prueba {
 		int valorDado = r.nextInt(10) + 1;
 		System.out.println(valorDado);
 		//primera modificacion
+		//segunda modificacion
 	}
 	
 
